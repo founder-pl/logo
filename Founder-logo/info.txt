@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Istok-Bold
+font link: https://fonts.google.com/specimen/Istok+Web
+font author: Andrey V. Panov
+font author site: 
+
+
+icon designer: Brad Avison
+icon designer link: /pixelpusher
+        
+{"bg":"transparent","icon-gradient-0":"#E90DCA","icon-gradient-1":"#1536F1","font":"#000000","slogan":"#141414"}
+      
