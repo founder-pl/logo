@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# logo.founder-pl.com
 
-You can use the [editor on GitHub](https://github.com/founder-pl/logo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Font
 
-### Markdown
+font name: FARRAY
+font link: https://www.dropbox.com/s/qfeit6m8yssxaod/FARRAY.zip
+font author: Adrien Coquet
+font author site: http://www.adrien-coquet.com/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+fontColor: {"gradient-0":"#F7294D","gradient-1":"#0D03B6"}
+bgColor: {"hex":"#FFFFFF"}
 
-- Bulleted
-- List
+Font
 
-1. Numbered
-2. List
+    #F7294D, #0D03B6
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Background
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    FFFFFF
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/founder-pl/logo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## 1
+![1/cover.png](1/cover.png)
+
+## 2
+![2/cover.png](2/cover.png)
+
+
+
+---
+
++ [edit](https://github.com/founder-pl/logo/edit/main/README.md)
++ [founder-pl/logo/](https://github.com/founder-pl/logo/)
